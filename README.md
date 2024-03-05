@@ -1,5 +1,6 @@
 ----
-![Logo](/docs/imgs/logo.png)
+<img src=".github/logo.png" alt="IaraText" />
+
 ----
 
 # Introduction
