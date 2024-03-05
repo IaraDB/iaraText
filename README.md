@@ -1,5 +1,5 @@
 ----
-<img src=".github/logo.png" alt="IaraText" />
+<img src="docs/imgs/logo.png" alt="IaraText" />
 
 ----
 
