@@ -40,7 +40,7 @@ A big thank you goes out to all contributors to IaraText!
 
 ## Licenses
 
-Code: (c) 2015 - Present - The IaraText Programme within The Commons Conservancy.
+Code: (c) 2024 - Present - The IaraText Programme within The Commons Conservancy.
 
 MIT or MIT/Apache 2.0 where applicable.
 
